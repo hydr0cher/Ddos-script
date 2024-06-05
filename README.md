@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copier le code
-git clone https://github.com/your-username/ddos-script.git
+git clone https://github.com/hydr0cher/ddos-script.git
 cd ddos-script
 Install dependencies:
 
